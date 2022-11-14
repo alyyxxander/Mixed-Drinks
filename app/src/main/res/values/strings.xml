@@ -1,0 +1,34 @@
+<resources>
+	<string name="app_name">Mixed Drinks</string>
+
+	<!-- HOME PAGE-->
+	<string name="txt_home_browse_drinks">Browse all drinks</string>
+	<string name="txt_home_find_drink">Find a drink to make</string>
+	<string name="txt_home_info_faq"><![CDATA[General Info & FAQ]]></string>
+
+	<!-- GENERAL INFO PAGE-->
+	<string name="txt_general_info_header"><![CDATA[General Info & FAQ]]></string>
+	<string name="txt_general_info_faq_spirits">FAQ About Spirits</string>
+	<string name="txt_general_info_spirits_explained">Kinds of Spirits Explained</string>
+	<string name="txt_general_info_party_planning">Party Planning</string>
+	<string name="txt_general_info_enjoy_responsibly">Enjoy Responsibly</string>
+	<string name="txt_general_info_credits">Credits</string>
+
+	<!-- SPIRITS EXPLAINED PAGE -->
+	<string name="txt_spirits_explained_header">Spirits Explained</string>
+	<string name="txt_spirits_explained_brandy">Brandy</string>
+	<string name="txt_spirits_explained_cordials"><![CDATA[Cordials & Liqueurs]]></string>
+	<string name="txt_spirits_explained_gin">Gin</string>
+	<string name="txt_spirits_explained_rum">Rum</string>
+	<string name="txt_spirits_explained_tequila">Tequila</string>
+	<string name="txt_spirits_explained_vodka">Vodka</string>
+	<string name="txt_spirits_explained_whiskey">Whiskey</string>
+
+	<string name="txt_spirits_explained_brandy_desc">Brandy is made by distilling wine or fruits. Cognac, a fine grape brandy from France, has powerful aromas and is often described with floral or fruit terms. Then there are actual fruit brandies, including calvados, made from apples, slivovitz, made from plums, and Poire William, made from pears. </string>
+	<string name="txt_spirits_explained_cordials_desc">Cordials are made from a base spirit and sweeteners to which flavors — such as herbs, fruits, nuts, coffee or chocolate — are added. This category covers everything from sambuca to jägermeister, a range that includes both sweet after-dinner drinks and herbal digestifs.</string>
+	<string name="txt_spirits_explained_gin_desc">This classic spirit, invaluable for mixing with tonic or in martinis, is made from a distilled blend of grains that are flavored with a distiller\'s proprietary ingredients. Juniper berry is always a key part of the formula, lending gin its distinctive piney aroma. Sloe gin, a liqueur flavored with sloeberries, was originally made with gin but now is more commonly made with a base of neutral spirits.</string>
+	<string name="txt_spirits_explained_rum_desc">Long associated with the Caribbean islands, rum is distilled from sugarcane juice or molasses and is made in many different styles. As rum ages, it takes on stronger, richer flavors. Clear, white rum is great for mixing with sodas or juices; darker, aged rums are meant to be sipped and savored and provide a stronger flavor in baked goods.</string>
+	<string name="txt_spirits_explained_tequila_desc">Tequila, distilled from Weber Blue Agave, is produced in five specific areas of Mexico, the largest of which is Jalisco. It\'s the essential ingredient in margaritas. Tequila is classified by its age, or how much time it spends in the barrel.</string>
+	<string name="txt_spirits_explained_vodka_desc">Although this spirit is most famously associated with Russia, vodka is made in many places, including Poland, France and the United States. It can be made from grain, potatoes or even grapes. Flavored vodkas are made by infusing the neutral spirit with fruit, spice or candy flavors.</string>
+	<string name="txt_spirits_explained_whiskey_desc">This ancient spirit is made in as many different styles as there are regions producing it, but all are made from a distilled mash of grains. Scotch whisky is made from malted and roasted barley, and it often carries a smoky tinge of the peat used to fuel the roasting kilns; Irish whiskey and Canadian whisky are typically blended from barley, corn and rye. Those made in the United States include corn whiskey, rye whiskey, bourbon and Tennessee whiskey (which is charcoal-filtered). Aging in oak barrels adds to each whiskey\'s flavor profile.</string>
+</resources>

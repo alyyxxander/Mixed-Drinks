@@ -1,0 +1,28 @@
+Q: Can you use the same android:id in different activities?
+A: Yes, you can. You can do this because whenever you use findViewById() to get a
+    reference to a part of your layout, the method only looks for that view in the currently
+    inflated layout. So even if you have another view with the same ID in another layout, Android will not look for it there.
+
+
+SETTING ELEMENT VISIBILITY
+    element.setVisibility(View.VISIBLE); //keeps the visibility to on
+    element.setVisibility(View.INVISIBLE); //hides the element but preserves the space take up by it
+    element.setVisibility(View.GONE); //completely hides the element from layout file
+
+
+
+test:
+forgot to add functionality to tequila button
+forgot to add whiskey buutton enntirely
+buutton colors are purple
+ugly
+add padding to the bottom of the scroll view
+
+
+
+TODO:
+add a fancy graphic background that is very faint. im thinkinng red swirly things or
+simplified roses
+
+
+
